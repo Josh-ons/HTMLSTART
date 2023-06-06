@@ -1,0 +1,81 @@
+ul{
+    list-style-type: none;
+    background-color: coral;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+
+}
+li,a{
+    padding: 15px;
+    display: block;
+    color: #8181e5;
+    font-family: "DejaVu Sans Condensed";
+    font-size: 20px;
+
+}li a:hover{
+    background-color: gold;
+
+ }
+.fruits{
+    background-color: #de8159;
+    border: 2px dotted maroon;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Abyssinica SIL";
+}
+.Cars{
+    background-color: #8181e5;
+    border: maroon;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+.Track{
+    background-color: dodgerblue;
+    border: darkmagenta;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Droid Sans Fallback";
+}
+.FRUITS{
+    background-color: darkgreen;
+    border: red;
+    margin: 15px;
+    padding: 25px;
+    text-align: center;
+    font-family: Ani;
+
+
+}
+#vehicle{
+     background-color: #388c8c;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 25px;
+    text-align: center;
+    font-family: Ani;
+
+}
+#matunda{
+     background-color: #8c7b38;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 25px;
+    text-align: center;
+    font-family: Ani;
+
+}
+#movies{
+     background-color: #11651b;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 25px;
+    text-align: center;
+    font-family: Ani;
+}
